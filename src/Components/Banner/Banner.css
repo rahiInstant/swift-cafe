@@ -1,0 +1,5 @@
+.background {
+    background: url('./banner.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
