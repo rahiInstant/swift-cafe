@@ -1,4 +1,3 @@
-import "./Navbar.css";
 const Navbar = () => {
   return (
     <div className="navbar bg-base-100">
@@ -37,7 +36,7 @@ const Navbar = () => {
               className="btn btn-ghost btn-circle avatar"
             >
               <div className="w-10 rounded-full">
-                <div><i className="fa-regular fa-user"></i></div>
+                <img src="./salad.jpg" alt="" />
               </div>
             </div>
             <ul
